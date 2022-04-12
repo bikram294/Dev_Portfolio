@@ -40,8 +40,8 @@ const data = [
     id: 5,
     image: IMG5,
     title: "My Portfolio",
-    github: "https://github.com/bikram294/JARVIS_2.0",
-    demo: "https://github.com/bikram294/JARVIS_2.0",
+    github: "https://github.com/bikram294/Dev_Portfolio",
+    demo: "https://bikram294.github.io/Dev_Portfolio/",
   },
   {
     id: 6,
